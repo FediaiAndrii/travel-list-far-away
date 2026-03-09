@@ -26,3 +26,7 @@ To run this project on your local machine:
    ```bash
    npm install
    ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
